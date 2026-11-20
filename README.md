@@ -21,5 +21,4 @@
 3. 根目录新建 `.env`，填入 `ZHIPU_API_KEY=你的智谱密钥`
 4. 启动网页 `streamlit run app.py`
 
-## 📷 演示效果
-(这里你可以放刚才的截图)
+
